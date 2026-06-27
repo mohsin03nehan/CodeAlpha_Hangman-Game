@@ -1,4 +1,3 @@
-# CodeAlpha_Hangman-Game
 # Hangman Game
 
 A simple terminal-based Hangman game developed in Python.
